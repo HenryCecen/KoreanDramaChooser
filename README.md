@@ -1,4 +1,6 @@
-Korean Drama Recommendation Application
+#Korean Drama Recommendation Application#
+![Korean_Drama_Recommendation](https://github.com/user-attachments/assets/9dabd8b4-9f24-41a8-ae00-6ebac2283b8e)
+
 This project was created during my university years to enhance my skills. The main purpose of the project is to provide users who want to watch Korean dramas with different genres based on their ages.
 
 Features
